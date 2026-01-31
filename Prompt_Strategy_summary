@@ -1,0 +1,12 @@
+The first prompt sets the foundation by locking in what the project is, which technologies you’re using, and how everything fits together. 
+The second focuses on building trust and credibility, which really matters for a healthcare platform. 
+The third makes it clear who the users are and what they’re allowed to do, so things don’t get messy later. 
+The fourth defines the patient and donor data properly, because if the data is wrong or unclear, everything else falls apart. 
+The fifth turns that data into dashboards, which helps you see whether the system actually makes sense from a user’s point of view. 
+The sixth brings the platform to life by turning ideas into real APIs and database logic. 
+The seventh is where the real value happens by adding genuine AI-based matching, not just “AI” in name. 
+The eighth makes sure medical data is handled responsibly with proper security. 
+The ninth gives you control through an admin layer so the system can be managed in the real world.
+The last prompt ties everything together with notifications and gets the project ready for deployment.
+
+Take it one step at a time, review the output carefully, improve it before moving on
